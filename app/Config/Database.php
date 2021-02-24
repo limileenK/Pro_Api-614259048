@@ -34,7 +34,7 @@ class Database extends Config
 		'DSN'      => '',
 		'hostname' => 'us-cdbr-east-03.cleardb.com',
 		'username' => 'b17616c7c3a963',
-		'password' => 'bc43175f',
+		'password' => 'a381a851d428ceb',
 		'database' => 'heroku_37176e111f2055e',
 		'DBDriver' => 'MySQLi',
 		'DBPrefix' => '',
